@@ -1,3 +1,2 @@
-id,japanese,kana,type,jlptLevel,exampleJp,exampleJpKana,english,polish
-1,猫,ねこ,vocabulary,JLPT N5,猫が大好きです,ねこがだいすきです,I love cats,Kocham koty
-2,
+id,jp,kana,type,jlptLevel,exampleJp,exampleJpKana,eng,engExample,pol,polExample
+1,猫,ねこ,vocabulary,JLPT N5,猫が大好きです,ねこがだいすきです,cat,I love cats,kot,Kocham koty
