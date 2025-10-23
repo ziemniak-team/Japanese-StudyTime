@@ -8,41 +8,29 @@
 </head>
 <body>
   <header>
-    <h1>Japanese StudyTime – Flashcards</h1>
-    <p>Simple static flashcards (HTML + CSS version)</p>
+    <h1>Japanese StudyTime</h1>
+    <p>Flashcards – Static Layout (like Anki)</p>
   </header>
 
-  <main class="flashcards">
-    <div class="card">
-      <div class="jp">猫</div>
-      <div class="kana">ねこ</div>
-      <div class="eng">cat</div>
-      <div class="pol">kot</div>
-      <p class="example">猫が大好きです – I love cats</p>
+  <main class="study-area">
+    <div class="flashcard">
+      <div class="front">
+        <div class="jp">猫</div>
+        <div class="kana">ねこ</div>
+      </div>
+      <div class="back">
+        <div class="eng">cat</div>
+        <div class="pol">kot</div>
+        <div class="example">
+          猫が大好きです<br>
+          <span class="small">I love cats</span>
+        </div>
+      </div>
     </div>
 
-    <div class="card">
-      <div class="jp">犬</div>
-      <div class="kana">いぬ</div>
-      <div class="eng">dog</div>
-      <div class="pol">pies</div>
-      <p class="example">犬は散歩に行きました – The dog went for a walk</p>
-    </div>
-
-    <div class="card">
-      <div class="jp">人</div>
-      <div class="kana">ひと</div>
-      <div class="eng">person</div>
-      <div class="pol">osoba</div>
-      <p class="example">この人は画家だ – This person is an artist</p>
-    </div>
-
-    <div class="card">
-      <div class="jp">アメリカ人</div>
-      <div class="kana">あめりかじん</div>
-      <div class="eng">american</div>
-      <div class="pol">amerykanin</div>
-      <p class="example">ケンさんはアメリカ人です – Mr. Ken is an American</p>
+    <div class="controls">
+      <button disabled>← Prev</button>
+      <button>Next →</button>
     </div>
   </main>
 
