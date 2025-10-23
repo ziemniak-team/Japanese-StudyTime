@@ -4,3 +4,26 @@ id,jp,kana,type,jlptLevel,exampleJp,exampleJpKana,eng,engExample,pol,polExample
 3,人,ひと,vocabulary,N5,この人は画家だ,このひとはがかだ,person,This person is an artist,Osoba,Ta osoba jest artystą
 4,アメリカ人,あめりかじん,vocabulary,N5,ケンさんはアメリカ人です,けんさんはあめりかじんです,american,Mr. Ken is an American,Amerykanin,Pan Ken jest Amerykaninem
 5,学校,がっこう,vocabulary,N5,田中さんは学校に通っている,たなかさんはがっこうにかよっている,school,Tanaka is attending school,szkoła,Tanaka chodzi do szkoły 
+6,寿司,すし,vocabulary,N5,私は寿司が好きです,わたしはすしがすきです,sushi,I like sushi,śledź, Lubię sushi
+7,お茶,おちゃ,vocabulary,N5,毎朝お茶を飲みます,まいあさおちゃをのみます,tea,I drink tea every morning,herbata,Każdego ranka piję herbatę
+8,先生,せんせい,vocabulary,N5,田中先生は優しいです,たなかせんせいはやさしいです,teacher,Mr. Tanaka is kind,nauczyciel,Pan Tanaka jest miły
+9,学生,がくせい,vocabulary,N5,私は学生です,わたしはがくせいです,student,I am a student,uczeń,Jestem uczniem
+10,一,いち,vocabulary,N5,りんごが一つあります,りんごがひとつあります,one,There is one apple,jeden,Jest jedno jabłko
+11,二,に,vocabulary,N5,りんごが二つあります,りんごがふたつあります,two,There are two apples,dwa,Są dwa jabłka
+12,三,さん,vocabulary,N5,りんごが三つあります,りんごがみっつあります,three,There are three apples,trzy,Są trzy jabłka
+13,四,し,vocabulary,N5,りんごが四つあります,りんごがよっつあります,four,There are four apples,cztery,Są cztery jabłka
+14,五,ご,vocabulary,N5,りんごが五つあります,りんごがいつつあります,five,There are five apples,pięć,Są pięć jabłek
+15,六,ろく,vocabulary,N5,りんごが六つあります,りんごがむっつあります,six,There are six apples,sześć,Są sześć jabłek
+16,七,しち,vocabulary,N5,りんごが七つあります,りんごがななつあります,seven,There are seven apples,siedem,Są siedem jabłek
+17,八,はち,vocabulary,N5,りんごが八つあります,りんごがやっつあります,eight,There are eight apples,osiem,Są osiem jabłek
+18,九,きゅう,vocabulary,N5,りんごが九つあります,りんごがここのつあります,nine,There are nine apples, dziewięć,Są dziewięć jabłek
+19,十,じゅう,vocabulary,N5,りんごが十個あります,りんごがじゅっこあります,ten,There are ten apples,dziesięć,Są dziesięć jabłek
+20,家,いえ,vocabulary,N5,私の家は大きいです,わたしのいえはおおきいです,house,My house is big,dom,Mój dom jest duży
+21,私,わたし,vocabulary,N5,私は学生です,わたしはがくせいです,I,I am a student,ja,Jestem uczniem
+22,日本,にほん,vocabulary,N5,日本は美しい国です,にほんはうつくしいくにです,Japan,Japan is a beautiful country,Japonia,Japonia jest pięknym krajem
+23,日本語,にほんご,vocabulary,N5,日本語を勉強しています,にほんごをべんきょうしています,Japanese language,I am studying Japanese language,Język japoński,Uczę się języka japońskiego
+24,日本人,にほんじん,vocabulary,N5,彼は日本人です,かれはにほんじんです,Japanese person,He is Japanese,Japończyk,On jest Japończykiem
+25,ベトナム,べとなむ,vocabulary,N5,ベトナムはアジアにあります,べとなむはあじあにあります,Vietnam,Vietnam is in Asia,Wietnam,Wietnam leży w Azji
+26,ベトナム人,べとなむじん,vocabulary,N5,彼はベトナム人です,かれはべとなむじんです,Vietnamese person,He is Vietnamese,Wietnamczyk,On jest Wietnamczykiem
+27,ポーランド,ぽーらんど,vocabulary,N5,ポーランドはヨーロッパにあります,ぽーらんどはよーろっぱにあります,Poland,Poland is in Europe,Polska,Polska leży w Europie
+28,ポーランド人,ぽーらんどじん,vocabulary,N5,彼はポーランド人です,かれはぽーらんどじんです,Polish person,He is Polish,Polak,On jest Polakiem
