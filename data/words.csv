@@ -1,2 +1,5 @@
 id,jp,kana,type,jlptLevel,exampleJp,exampleJpKana,eng,engExample,pol,polExample
-1,猫,ねこ,vocabulary,JLPT N5,猫が大好きです,ねこがだいすきです,cat,I love cats,kot,Kocham koty
+1,猫,ねこ,vocabulary,N5,猫が大好きです,ねこがだいすきです,cat,I love cats,kot,Kocham koty
+2,犬,いぬ,vocabulary,N5,犬は散歩に行きました,いぬはさんぽにいきました,dog,Dog has left for a walk,pies,Pies wyszedł na spacer
+3,人,ひと,vocabulary,N5,この人は画家だ,このひとはがかだ,person,This person is an artist,Osoba,Ta osoba jest artystą
+4,アメリカ人,あめりかじん,vocabulary,N5,ケンさんはアメリカ人です,けんさんはあめりかじんです,american,Mr. Ken is an American,Amerykanin,Pan Ken jest Amerykaninem
